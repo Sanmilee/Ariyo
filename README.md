@@ -1,3 +1,3 @@
 # ConvNets
 
-MNIST Classification task using LeNet5 ConvNet Architecture
+Sample implementation of several CNN Architectures
